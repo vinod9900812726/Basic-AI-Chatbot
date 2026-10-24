@@ -1,1 +1,8 @@
 
+streamlit
+huggingface_hub
+sentence-transformers
+numpy
+pdfplumber
+python-dotenv
+
