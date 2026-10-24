@@ -1,1 +1,33 @@
 
+Artificial Intelligence and Generative AI
+
+Artificial Intelligence is a branch of computer science
+that develops systems capable of performing tasks that
+normally require human intelligence.
+
+Machine Learning is a subset of Artificial Intelligence.
+It allows computers to learn patterns from data.
+
+Deep Learning uses neural networks with multiple layers
+to learn complex patterns.
+
+Generative AI creates new content such as text, images,
+audio, video, and computer code.
+
+Large Language Models are trained on large collections
+of text and can generate responses to user prompts.
+
+Retrieval-Augmented Generation combines information
+retrieval with language generation. It retrieves relevant
+information from documents and provides that information
+to a language model as context.
+
+Embeddings represent text as numerical vectors.
+Semantically similar text can have similar embeddings.
+
+Vector similarity search helps retrieve document passages
+that are relevant to a user's question.
+
+Python is widely used for AI development because of its
+libraries for machine learning, data processing, and NLP.
+
